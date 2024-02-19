@@ -1,6 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ariyana Eva</h1>
 <h3 align="center">I am A frontend developer from Bnagladesh</h3>
 
+<Ul type="round">
+  <li>🔭 I’m currently working on</li>
+  <li>👯 I’m looking to collaborate on</li>
+  <li>🤝 I’m looking for help with</li>
+  <li>🌱 I’m currently learning</li>
+  <li>💬 Ask me about</li>
+  <li>📫 How to reach me</li>
+  <li>👨‍💻 All of my projects are available at</li>
+  <li>📝 I regularly write articles on</li>
+  <li>📄 Know about my experiences</li>
+</Ul>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arianaeva" alt="arianaeva" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
