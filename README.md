@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ariyana Eva</h1>
 <h3 align="center">I am A frontend developer from Bnagladesh</h3>
+<img src="">
 
 <h1>Aboute me:</h1>
-<p>I am learning to work as a front-end web developer so far I have completed html, css, javascript inshallah i can complete the next steps please pray for me</p>
-
+<p>I am learning to work as a front-end web developer so far I have completed HTML, CSS, javascript inshallah i can complete the next steps please pray for me.</p>
+<br>
 <Ul type="round">
   <li>🔭 I’m currently working on</li>
   <li>👯 I’m looking to collaborate on</li>
